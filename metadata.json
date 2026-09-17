@@ -1,0 +1,6 @@
+{
+  "name": "Diamond Dairy",
+  "description": "Comprehensive dairy management web application for Diamond Dairy, managing items, recipes, suppliers, production, customers, sales, expenses, cash/bank, and financial reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
